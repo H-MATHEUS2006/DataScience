@@ -1,4 +1,3 @@
 # DataScience
-Tudo sobre estudo / projeto de DADOS.
-SENAI HENRIQUE 
+Autor: HENRIQUE 
 ARQUIVO CURSO PYTHON PARA DATASCIENSE
